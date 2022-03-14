@@ -121,9 +121,6 @@ Airdrop Date: *{AIRDROP_DATE}*{EXPLORER_URL}
 MAKE_SURE_TELEGRAM = f"""
 🔹 You must join our Telegram Group
 {TELEGRAM_LINKS}
-<a href="https://t.me/onmetaindonesia">ONMETA Indonesia</a>
-🔹 Telegram Channel
-<a href="https://t.me/onmetachannel">ONMETA Channel</a>
 """
 
 FOLLOW_TWITTER_TEXT = f"""
@@ -135,7 +132,7 @@ JOIN_DISCORD_TEXT = f'''
 🔹 Join our Discord server
 {DISCORD_LINKS}
 🔹 Subscribed, Likes and Share our Youtube Channel
-<a href="https://www.youtube.com/channel/UCBG6vbnCNgSI_EFkDgQbMQA/videos">Youtube Channel</a>
+https://www.youtube.com/channel/UCBG6vbnCNgSI_EFkDgQbMQA/videos
 '''
 
 SUBMIT_BEP20_TEXT = f"""
