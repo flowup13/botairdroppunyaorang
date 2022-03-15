@@ -115,6 +115,8 @@ PROCEED_MESSAGE = f"""
 NOTE: Users found cheating would be disqualified & banned immediately.
 
 Airdrop Date: *{AIRDROP_DATE}*{EXPLORER_URL}
+
+🔹 Subscribed, Likes and Share our Youtube Channel
 {WEBSITE_URL}
 """
 
@@ -131,8 +133,6 @@ FOLLOW_TWITTER_TEXT = f"""
 JOIN_DISCORD_TEXT = f'''
 🔹 Join our Discord server
 {DISCORD_LINKS}
-🔹 Subscribed, Likes and Share our Youtube Channel
-https://www.youtube.com/channel/UCBG6vbnCNgSI_EFkDgQbMQA/videos
 '''
 
 SUBMIT_BEP20_TEXT = f"""
