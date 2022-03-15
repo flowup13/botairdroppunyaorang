@@ -114,10 +114,10 @@ PROCEED_MESSAGE = f"""
 
 NOTE: Users found cheating would be disqualified & banned immediately.
 
-Airdrop Date: *{AIRDROP_DATE}*{EXPLORER_URL}
-
 🔹 Subscribed, Likes and Share our Youtube Channel
 {WEBSITE_URL}
+
+Airdrop Date: *{AIRDROP_DATE}*{EXPLORER_URL}
 """
 
 MAKE_SURE_TELEGRAM = f"""
