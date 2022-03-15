@@ -114,8 +114,7 @@ PROCEED_MESSAGE = f"""
 
 NOTE: Users found cheating would be disqualified & banned immediately.
 
-🔹 Subscribed, Likes and Share our Youtube Channel
-{WEBSITE_URL}
+Official Website: {WEBSITE_URL}
 
 Airdrop Date: *{AIRDROP_DATE}*{EXPLORER_URL}
 """
@@ -123,6 +122,10 @@ Airdrop Date: *{AIRDROP_DATE}*{EXPLORER_URL}
 MAKE_SURE_TELEGRAM = f"""
 🔹 You must join our Telegram Group
 {TELEGRAM_LINKS}
+https://t.me/onmetaindonesia
+🔹 ONMETA Telegram Channel
+https://t.me/onmetachannel
+
 """
 
 FOLLOW_TWITTER_TEXT = f"""
@@ -133,6 +136,8 @@ FOLLOW_TWITTER_TEXT = f"""
 JOIN_DISCORD_TEXT = f'''
 🔹 Join our Discord server
 {DISCORD_LINKS}
+🔹 Subscribed, Likes and Share our Youtube Channel
+https://www.youtube.com/watch?v=7BwwS0mxWUU
 '''
 
 SUBMIT_BEP20_TEXT = f"""
